@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James
-- 👀 I’m interested in Video Games and Board Games.
+- 👀 I’m interested in Video and Board Games.
 - 🌱 I’m currently learning Cyber Operations.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
