@@ -1,8 +1,6 @@
 - 👋 Hi, I’m James
 - 👀 I’m interested in Video and Board Games.
-- 🌱 I’m currently learning Cyber Operations.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently getting my degree in Cyber Operations.
 
 <!---
 Phantomghost01/Phantomghost01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
